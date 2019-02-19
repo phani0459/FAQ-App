@@ -1,0 +1,37 @@
+[
+  {
+    "category": "question1",
+    "subFAQs": [
+      {
+        "faq": "sub question1",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      },
+      {
+        "faq": "sub question2",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      }
+    ]
+  },
+  {
+    "category": "question2",
+    "subFAQs": [
+      {
+        "faq": "sub question1",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      },
+      {
+        "faq": "sub question2",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+      }
+    ]
+  },
+  {
+    "category": "question3"
+  },
+  {
+    "category": "question4"
+  },
+  {
+    "category": "question5"
+  }
+]
